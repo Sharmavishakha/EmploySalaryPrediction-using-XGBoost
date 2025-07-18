@@ -2,6 +2,10 @@
 
 A machine learning-based Streamlit web app that predicts salaries based on employee details.
 
+**SalaryScope** is an interactive Machine Learning-based web application that predicts employee salaries based on key features such as age, gender, education level, job title, and years of experience.
+
+Built using **Streamlit** and powered by **XGBoost**, this system provides both general salary predictions and company-specific training functionality, making it suitable for real-world HR and analytics use cases.
+
 ## 🔍 Features
 - Predict salary using input fields
 - Upload company-specific employee data to train a custom model
