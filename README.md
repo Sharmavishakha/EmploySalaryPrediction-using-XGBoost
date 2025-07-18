@@ -1,4 +1,4 @@
-# 💼 SalaryScope: A Streamlit-Powered AI System for Personalized Compensation Prediction
+# 💼 Dynamic Salary Estimator with Company Intelligence using XGBoost
 
 **SalaryScope** is an interactive Machine Learning-based web application that predicts employee salaries based on key features such as age, gender, education level, job title, and years of experience.
 
